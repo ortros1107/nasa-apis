@@ -1,0 +1,9 @@
+@media (min-width: 45em) { 
+    .logo {
+      min-width: 5vw;
+      aspect-ratio: 1;
+      display: flex;
+      justify-content: center;
+      align-items:center;
+    }
+   }

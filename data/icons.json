@@ -1,0 +1,56 @@
+{
+    "events": [
+        {
+            "name": "Drought",
+            "filename": "drought-icon.png"
+        },
+        {
+            "name": "Dust and Haze",
+            "filename": "dust-haze-icon-png"
+        },
+        {
+            "name": "Earthquakes",
+            "filename": "earthquake-icon.png"
+        },
+        {
+            "name": "Floods",
+            "filename": "flood-icon.png"
+        },
+        {
+            "name": "Landslides",
+            "filename": "landslide-icon.png"
+        },
+        {
+            "name": "Manmade",
+            "filename": "manmade-icon.png"
+        },
+        {
+            "name": "Sea and Lake Ice",
+            "filename": "sea-lake-ice-icon.png"
+        },
+        {
+            "name": "Severe Storms",
+            "filename": "storm-icon.png"
+        },
+        {
+            "name": "Snow",
+            "filename": "snow-icon.png"
+        },
+        {
+            "name": "Temperature Extremes",
+            "filename": "temperature-icon.png"
+        },
+        {
+            "name": "Volcanoes",
+            "filename": "volcano-icon.png"
+        },
+        {
+            "name": "Water Color",
+            "filename": "water-color-icon.png"
+        },
+        {
+            "name": "Wildfires",
+            "filename": "wildfire-icon.png"
+        }
+    ]
+}

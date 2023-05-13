@@ -1,0 +1,16 @@
+.error-404 {
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.h1 {
+    margin-bottom: 1em;
+}
+
+.h2,
+.p {
+    margin-bottom: 3em;
+}
